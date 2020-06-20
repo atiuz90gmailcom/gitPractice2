@@ -1,4 +1,4 @@
-package day_01;
+package day_02;
 
 public class I_love_Git {
 
