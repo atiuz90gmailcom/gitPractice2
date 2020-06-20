@@ -1,12 +1,8 @@
 package day_01;
 
-public class I_love_Git {
+public class Practice {
 
     public static void main(String[] args) {
 
-
-        // coding
     }
-
 }
-
