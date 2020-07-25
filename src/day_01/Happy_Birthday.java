@@ -1,6 +1,6 @@
 package day_01;
 
-public class HappyBirthday {
+public class Happy_Birthday {
 
     public static void main(String[] args) {
         System.out.println("Happy birthday B18");
@@ -10,9 +10,16 @@ public class HappyBirthday {
 
                 // this line is added in GitHub
 
+
                /////////////
         System.out.println("Happy birthday one more time");
-        
+
+        ////////////
+
+        /// happy ramadan
+
+
+
 
 
 
