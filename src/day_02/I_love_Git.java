@@ -8,6 +8,8 @@ public class I_love_Git {
         // coding
         
         // this line is added from git hub
+
+        // this line is added from inteliJ
         
         
         
