@@ -3,4 +3,4 @@ blue
 black
 orange
 grey
-white ----1111
+white 
