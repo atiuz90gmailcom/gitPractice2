@@ -7,3 +7,6 @@ Mercedez
 Mercedes
 KIA
 Jeep
+Lexus
+Hyundai
+Ferrari
