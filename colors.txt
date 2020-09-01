@@ -6,6 +6,6 @@ grey
 white 
 safari
 brown
-#####
-=======
+white2
 purple
+yellow
