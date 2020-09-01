@@ -2,4 +2,5 @@ red
 blue
 black
 orange
-grey--0000
+grey
+white ----1111
